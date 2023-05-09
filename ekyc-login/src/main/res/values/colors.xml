@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="com_ditr_ekyc_login_primary_color">#193896</color>
+    <color name="com_ditr_ekyc_login_dark_primary_color">#092475</color>
+    <color name="com_ditr_ekyc_login_popup_background">#5E000000</color>
+</resources>

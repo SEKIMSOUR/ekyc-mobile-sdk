@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="com_ditr_ekyc_login_button_login">Continue with Ekyc</string>
+    <string name="com_ditr_ekyc_link_download_app">https://play.google.com/store/apps/details?id=com.facebook.katana</string>
+    <string name="com_ditr_ekyc_uri">openapp://sdk_ditr_ekyc:8888/verify_login?clientID=%1$s&amp;codeChallenge=%2$s&amp;appName=%3$s</string>
+</resources>
